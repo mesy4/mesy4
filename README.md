@@ -14,12 +14,11 @@
 
 ## `$ cat whoami.txt`
 
-
-Name  ──  Mesya (amsyarutm)
+<pre><code>Name  ──  Mesya (amsyarutm)
 Role  ──  Security Operations Analyst
           formerly Software Engineer
 Edu   ──  Master's Degree in Cyber Security
-Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis
+Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></pre>
 
 
 
@@ -47,7 +46,7 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis
 
 <div align="center">
   <a href="https://github.com/amsyarutm">
-    <img src="https://github-readme-stats.vercel.app/api?username=amsyarutm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amsyarutm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/amsyarutm">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsyarutm&theme=tokyonight&hide_border=true&layout=compact&langs_count=2&custom_title=Top%20Languages" alt="Top Languages" height="150" />
@@ -77,5 +76,12 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis
 ## `$ mail -s "Let's Connect" root@localhost`
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amsyar--zuraidy--1001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amsyar-zuraidy-1001)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9291--7755-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-9291-7755)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
