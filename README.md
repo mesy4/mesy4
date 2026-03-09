@@ -27,7 +27,17 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis
 
 **Defensive & Analysis**
 
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-E9436F?style=flat-square&logo=kaspersky&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-6C6F93?style=flat-square&logo=thehive&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/Elastic_Stack-6C6F93?style=flat-square&logo=elastic&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-6C6F93?style=flat-square&logo=security&logoColor=white)
+
 **Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-2E303E?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2E303E?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-2E303E?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2E303E?style=flat-square&logo=git&logoColor=white)
 
 ---
 
