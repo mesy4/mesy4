@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=500&size=17&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Security+Operations+Analyst;Threat+Hunter;Memory+Forensics+Enthusiast;Master+in+Cyber+Security)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=amsyarutm&color=3776AB&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=mesy4&color=3776AB&style=flat-square&label=profile+views)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## `$ cat whoami.txt`
 
-<pre><code>Name  ──  Mesya (amsyarutm)
+<pre><code>Name  ──  Mesya (mesy4)
 Role  ──  Security Operations Analyst
           formerly Software Engineer
 Edu   ──  Master's Degree in Cyber Security
@@ -56,9 +56,9 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></p
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amsyarutm/amsyarutm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amsyarutm/amsyarutm/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/amsyarutm/amsyarutm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesy4/mesy4/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesy4/mesy4/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mesy4/mesy4/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -73,7 +73,7 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></p
 <summary><code>📄 cat dl-fileless-malware-memory-analysis.md</code></summary>
 <br>
 
-**[dl-fileless-malware-memory-analysis](https://github.com/amsyarutm/dl-fileless-malware-memory-analysis)**
+**[dl-fileless-malware-memory-analysis](https://github.com/mesy4/dl-fileless-malware-memory-analysis)**
 > Implementation of deep learning models (ANN, CNN, and RNN) for detecting fileless malware via memory dump analysis. Includes exploratory data analysis and comparative performance metrics (ROC, Confusion Matrix).
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
