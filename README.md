@@ -44,9 +44,10 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></p
 
 ## `$ cat stats.out`
 
-![Mesya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amsyarutm&theme=tokyonight&hide_border=true&show_icons=true)
-
-![Mesya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amsyarutm&theme=tokyonight&hide_border=true&layout=compact&langs_count=2)
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="150" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
+</div>
 
 ---
 
