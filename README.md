@@ -88,7 +88,7 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></p
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amsyar--zuraidy--1001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amsyar-zuraidy-1001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mesya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amsyar-zuraidy-1001)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9291--7755-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-9291-7755)
 
 <br><br>
