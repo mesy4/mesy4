@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=header&text=Mesya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&height=200&section=header&text=Mesya&fontSize=80&animation=twinkling&desc=[_SYSTEM_READY_]&descSize=20&descAlignY=75" width="100%" alt="Profile Banner"/>
 
 <br><br>
 
@@ -20,31 +20,33 @@ Role  ──  Security Operations Analyst
 Edu   ──  Master's Degree in Cyber Security
 Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></pre>
 
-
-
 ---
 
 ## `$ ls skills/`
 
 **Defensive & Analysis**
 
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-E9436F?style=flat-square&logo=kaspersky&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-6C6F93?style=flat-square&logo=thehive&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/Elastic_Stack-6C6F93?style=flat-square&logo=elastic&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-6C6F93?style=flat-square&logo=security&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-CC0000?style=flat-square)
+![TheHive](https://img.shields.io/badge/TheHive-FFCC00?style=flat-square&logo=thehive&logoColor=black)
+![ELK Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Security-blue?style=flat-square)
+
+<br>
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-2E303E?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2E303E?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-2E303E?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2E303E?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## `$ cat stats.out`
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amsyarutm&theme=blue-green" alt="GitHub Streak" /></a>
+![Mesya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amsyarutm&theme=tokyonight&hide_border=true&show_icons=true)
+
+![Mesya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amsyarutm&theme=tokyonight&hide_border=true&layout=compact&langs_count=2)
 
 ---
 
@@ -54,13 +56,14 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></p
 
 <details>
 <summary><code>📄 cat dl-fileless-malware-memory-analysis.md</code></summary>
-
-
-
+<br>
 
 **[dl-fileless-malware-memory-analysis](https://github.com/amsyarutm/dl-fileless-malware-memory-analysis)**
-
 > Implementation of deep learning models (ANN, CNN, and RNN) for detecting fileless malware via memory dump analysis. Includes exploratory data analysis and comparative performance metrics (ROC, Confusion Matrix).
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
+> ![Memory Forensics](https://img.shields.io/badge/Memory_Forensics-141414?style=flat-square)
 
 </details>
 
@@ -75,6 +78,6 @@ Focus ──  Incident Response  |  Threat Hunting  |  Memory Analysis</code></p
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&height=150&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
