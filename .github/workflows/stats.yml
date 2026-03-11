@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=amsyarutm&theme=tokyonight&hide_border=true&show_icons=true
+          options: username=mesy4&theme=tokyonight&hide_border=true&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=amsyarutm&theme=tokyonight&hide_border=true&layout=compact&langs_count=2
+          options: username=mesy4&theme=tokyonight&hide_border=true&layout=compact&langs_count=2
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
